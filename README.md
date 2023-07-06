@@ -41,5 +41,5 @@ I highly value your feedback to improve FlyPlugin based on your suggestions. If 
 
 
 ## License
-This plugin is released under the MIT License. You are free to use, modify, and distribute this plugin as per the terms of the license.
+This plugin is released under the **MIT License**. You are free to use, modify, and distribute this plugin as per the terms of the license.
 
