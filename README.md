@@ -17,7 +17,7 @@ The Minecraft Flight Plugin is a plugin designed for Minecraft version 1.20. It 
 
 1.Ensure you have a Spigot server running Minecraft version 1.20
 
-2.Download the latest release of FlyPlugin from the [Releases](https://github.com/StephSteel/TpaPlugin/releases/tag/teleport) page.
+2.Download the latest release of FlyPlugin from the [Releases](https://github.com/StephSteel/FlyPlugin/releases/tag/fly) page.
 
 3.Place the downloaded plugin JAR file into the `plugins` folder of your Minecraft Spigot server.
 
